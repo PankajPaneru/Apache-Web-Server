@@ -1,5 +1,5 @@
-# Hosting Multiple Websites on a Single Server with Apache Virtual Hosts
-
+# Hosting Multiple Websites on a Single Server <br>with Apache Virtual Hosts
+![mutiplewebs](https://github.com/PankajPaneru/Apache-Web-Server/assets/132757802/bf7bc31c-0d9a-4a0a-a7c1-595272f18be8)
 
 Are you wondering if it's possible to host multiple websites on a single server? The answer is a resounding yes! In the world of Apache web servers, this can be achieved through the concept of Virtual Hosts or Vhosts.
 

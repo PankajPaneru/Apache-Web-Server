@@ -139,6 +139,6 @@ Test the websites:
 curl website1.com
 curl website2.com
 ```
-And there you have it! Hosting multiple websites on a single server using Apache Virtual Hosts. Feel free to experiment and have fun exploring the vast possibilities of web hosting.
+And there you have it! Hosting multiple websites on a single server using Apache Virtual Hosts. Have fun exploring the vast possibilities of web hosting.
 
 
